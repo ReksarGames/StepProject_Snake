@@ -1,8 +1,3 @@
-For NonJava languages:
-- please go to .\src\main\<language>
-- chose your language
-- and follow README.md instructions
-
 For Java:
 - setup Java (JDK 8)
     + setup JAVA_HOME variable
